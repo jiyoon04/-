@@ -3,6 +3,7 @@
 colab 파일 안 설명 첨부
 
 using dreamtalk(with LoRA) and GFPGAN
+
 https://github.com/ali-vilab/dreamtalk
 https://github.com/TencentARC/GFPGAN
 
